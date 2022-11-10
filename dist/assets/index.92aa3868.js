@@ -1,0 +1,1 @@
+import{R as n,_ as t}from"./Group.ef3b103e.js";import{_ as m}from"./RadioButton.4b1c6045.js";n.Group=t;n.Button=m;n.install=function(o){return o.component(n.name,n),o.component(n.Group.name,n.Group),o.component(n.Button.name,n.Button),o};
